@@ -6,11 +6,11 @@ friendly features.</p>
 ## Run Locally
 Clone the project
 ```bash
-https://github.com/Luyanda078/task7todolist
+https://github.com/Luyanda078/Weather25App
 ```
 Go to the project directory
 ```bash
-  cd client & cd server
+  cd weather25app
 ```
 Install dependencies
 ```bash
